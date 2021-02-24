@@ -1,0 +1,9 @@
+name: dsprac
+
+dependencies:
+  - python=3.7.9
+  - pandas=1.1.5  # same as Colab
+  - matplotlib=3.2.2  # same as Colab
+  - bokeh
+  - conda-forge::missingno
+  # - seaborn
