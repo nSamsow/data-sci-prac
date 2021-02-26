@@ -6,4 +6,5 @@ dependencies:
   - matplotlib=3.2.2  # same as Colab
   - bokeh
   - conda-forge::missingno
-  # - seaborn
+  - pip:
+    - seaborn==0.11.1
