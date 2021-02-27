@@ -4,7 +4,7 @@ dependencies:
   - python=3.7.9
   - anaconda 
   - pip 
-  - pandas=1.1.5  # same as Colab
+  - pandas=1.2.2
   - matplotlib=3.3.4
   - conda-forge::jupyter_contrib_nbextensions
   - pip:
