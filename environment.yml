@@ -6,7 +6,6 @@ dependencies:
   - pip 
   - pandas=1.1.5  # same as Colab
   - matplotlib=3.3.4
-  - bokeh=2.1.1 # same as Colab
   - conda-forge::jupyter_contrib_nbextensions
   - pip:
     - missingno==0.4.2  # same as Colab
